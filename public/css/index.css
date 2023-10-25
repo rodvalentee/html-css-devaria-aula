@@ -2,3 +2,13 @@
 .cover-container figure img {
     width: 100%;
 }
+
+main{
+    text-align: center;
+}
+main h3.title {
+    font-size: 1.2em;
+}
+main section abbr {
+    color: #25cbd3;
+}
